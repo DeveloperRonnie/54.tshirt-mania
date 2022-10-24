@@ -1,0 +1,10 @@
+nav a {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+nav a:hover{
+    cursor: pointer;
+    color: lightslategray;
+}
