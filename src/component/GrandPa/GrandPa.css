@@ -1,0 +1,13 @@
+
+.grandPa{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid red ;
+}
+
+.grandPa div{
+    border: 2px solid orange;
+    margin: 20px;
+    padding: 10px;
+}

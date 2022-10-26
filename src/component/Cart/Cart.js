@@ -30,8 +30,13 @@ const Cart = ({ cart, handleRemoveFromCart }) => {
             {
                 cart.length !== 4 ? <p>keep adding</p> : <button>remove all</button>
             }
+
         </div>
     );
 };
 
 export default Cart;
+
+
+
+
